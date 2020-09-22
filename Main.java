@@ -1,5 +1,8 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    int myage = 14;
+
+
+    System.out.println("i am 14" + myage + "years old")
   }
 }
